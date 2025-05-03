@@ -1,0 +1,7 @@
+apimServiceName: apimorb-service
+namedValues:   
+loggers:    
+diagnostics:   
+backends:  
+apis:
+  
